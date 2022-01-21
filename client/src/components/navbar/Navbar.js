@@ -21,6 +21,7 @@ function Navbar({ token }) {
   //local state
   const [fade, setFade] = useState(false);
   const [decoded, setDecoded] = useState(false);
+  const [counter, setCounter] = useState(0);
 
   //side effects
   useEffect(() => {
@@ -96,8 +97,9 @@ function Navbar({ token }) {
                 return (
                   <Form className="search-form-container">
                     <Field
-                      onKeyDown={(e) => {
-                        if (e.key === "Backspace" && values.search.length === 1) {
+                      onKeyUp={(e) => {
+                        if ((e.key === "Backspace" && values.search.length === 0) || (e.key === "Delete" && values.search.length === 0)) {
+                          console.log(values.search);
                           dispatch(getBooks("/api/books", get));
                         }
                       }}
