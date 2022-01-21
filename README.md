@@ -1,5 +1,5 @@
 # Book e-commerce
-The software system being produced is called Book E-Commerce System. It is being produced for a customer interested in selling books via the Internet. This system is designed to "provide automation support" for the process of placing books for sale on the Internet and facilitating the actual sale. 
+The software system being produced is called Book E-Commerce System. It is application that allows customers to buy books online. This system is designed to "provide automation support" to the manager for the process of reordering new books and notifying users about their purchases and new promotions. 
 
 ## technologies
 In this MERN stack application the **frontend** is developed in HTML5, CSS3 and React.js Material UI library. **backend** is created in Express and Node.js. I have used **nodemailer** to send emails.  
