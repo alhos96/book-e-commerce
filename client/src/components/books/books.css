@@ -1,0 +1,65 @@
+.Add-book,
+.Edit-book {
+  height: auto;
+  width: 95%;
+  max-width: 1020px;
+  margin: auto;
+  padding-top: 25px;
+  margin-bottom: 100px;
+}
+
+.Book {
+  position: relative;
+}
+
+.link {
+  cursor: pointer;
+}
+
+#uploaded-image {
+  margin: auto;
+  width: 230px;
+  height: 180px;
+  border: 3px solid #3d4498;
+  border-radius: 5px;
+}
+
+.Book {
+  display: flex;
+}
+
+.book-label {
+  display: flex;
+  align-items: center;
+}
+
+.details {
+  flex: 3;
+}
+
+.book-image {
+  flex: 1;
+  margin: 5px 10px;
+  width: 60px;
+  max-width: 60px;
+  height: 100px;
+}
+
+.add-to-cart-button {
+  margin-left: 30% !important;
+  margin-top: 15px !important;
+}
+
+.pick-date-wrapp {
+  background-color: white;
+  position: relative;
+}
+
+.calendar-icon {
+  right: 8px;
+}
+.pick-date-wrapp input {
+  border: none;
+  height: 35px;
+  width: 100%;
+}

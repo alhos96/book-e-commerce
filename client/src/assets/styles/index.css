@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 0.3px;
+}
+body {
+  background-color: #eeebd7;
+}
+.App {
+  width: auto;
+  height: 100%;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.link {
+  cursor: pointer;
+}
+.link:hover {
+  text-decoration: underline;
+}
+
+.object-image {
+  margin: auto;
+}
+
+.search-form-container {
+  height: 100%;
+  position: relative;
+}
+
+.field-adornment-icon {
+  position: absolute !important;
+  z-index: 1 !important;
+  right: 0;
+  top: 50%;
+  transform: translate(0%, -50%);
+}
+
+.modal-wrapp {
+  background-color: rgb(128, 128, 128, 0.1);
+  height: 100vh;
+  width: 95%;
+  position: fixed;
+  z-index: 3;
+}
+
+.main-divider {
+  margin-bottom: 30px !important;
+}
+
+.small-title {
+  color: #3d4498;
+  font-size: 17px !important;
+  font-weight: 600;
+}
+
+.smaller-title {
+  color: #3d4498;
+  font-size: 14px !important;
+
+  font-weight: 600;
+}

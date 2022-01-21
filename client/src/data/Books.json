@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Bloated JabbaScript Frameworks",
+    "author": "Kerim Memija",
+    "stock": 2,
+    "image": "bjsf.jpg",
+    "pages": 171,
+    "price": 79.95,
+    "publisher": 1
+  },
+  {
+    "title": "Blaming the Architecture",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "bta.jpg",
+    "pages": 158,
+    "price": 79.95,
+    "publisher": 2
+  },
+  {
+    "title": "Blame the Other Guy",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "btog.jpg",
+    "pages": 111,
+    "price": 69.95,
+    "publisher": 3
+  },
+  {
+    "title": "Blaming the User",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "btu.jpg",
+    "pages": 152,
+    "price": 79.95,
+    "publisher": 4
+  },
+  {
+    "title": "Commenting Out Failed Tests",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "coft.jpg",
+    "pages": 166,
+    "price": 69.95,
+    "publisher": 5
+  },
+  {
+    "title": "Copying and Pasting from Stack Overflow",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "cpso.jpg",
+    "pages": 159,
+    "price": 69.95,
+    "publisher": 5
+  },
+  {
+    "title": "Changing Stuff and Seeing What Happens",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "cswh.jpg",
+    "pages": 129,
+    "price": 59.95,
+    "publisher": 4
+  },
+  {
+    "title": "Coding on the Weekend",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "cw.jpg",
+    "pages": 142,
+    "price": 49.95,
+    "publisher": 3
+  },
+  {
+    "title": "Doing it the Hard Way",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "dihw.jpg",
+    "pages": 113,
+    "price": 59.95,
+    "publisher": 2
+  },
+  {
+    "title": "Excuses to Miss Meetings",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "emm.jpg",
+    "pages": 113,
+    "price": 59.95,
+    "publisher": 1
+  },
+  {
+    "title": "Excuses for Not Writing Documentation",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "enwd.jpg",
+    "pages": 153,
+    "price": 79.95,
+    "publisher": 1
+  },
+  {
+    "title": "Excuses for Not Writing Unit Tests",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "ewut.jpg",
+    "pages": 124,
+    "price": 79.95,
+    "publisher": 2
+  },
+  {
+    "title": "Forgetting How Your Own Code Works",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "fhcw.jpg",
+    "pages": 150,
+    "price": 69.95,
+    "publisher": 3
+  },
+  {
+    "title": "Getting an Arduino LED to Blink",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "gitw.jpg",
+    "pages": 180,
+    "price": 69.95,
+    "publisher": 5
+  },
+  {
+    "title": "Googling the Error Message",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "gtem.jpg",
+    "pages": 153,
+    "price": 79.95,
+    "publisher": 5
+  },
+  {
+    "title": "Hating on Languages You Don't Use",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "hldu.jpg",
+    "pages": 122,
+    "price": 89.95,
+    "publisher": 4
+  },
+  {
+    "title": "Hoping Nobody Hacks You",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "hnhy.jpg",
+    "pages": 169,
+    "price": 49.95,
+    "publisher": 3
+  },
+  {
+    "title": "Hanging out on Slack",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "hoos.jpg",
+    "pages": 111,
+    "price": 59.95,
+    "publisher": 2
+  },
+  {
+    "title": "Hating Other People's Code",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "hopc.jpg",
+    "pages": 139,
+    "price": 59.95,
+    "publisher": 1
+  },
+  {
+    "title": "Hoping This Works",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "htw.jpg",
+    "pages": 186,
+    "price": 49.95,
+    "publisher": 1
+  },
+  {
+    "title": "It Depends",
+    "author": "Kerim Memija",
+    "stock": 2,
+    "image": "id.jpg",
+    "pages": 159,
+    "price": 79.95,
+    "publisher": 2
+  },
+  {
+    "title": "Memorizing Six Git Commands",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "msgc.jpg",
+    "pages": 168,
+    "price": 89.95,
+    "publisher": 3
+  },
+  {
+    "title": "Programming by Trial and Error",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "pbte.jpg",
+    "pages": 121,
+    "price": 79.95,
+    "publisher": 4
+  },
+  {
+    "title": "Pretending to Know About Stuff",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "pkas.jpg",
+    "pages": 138,
+    "price": 59.95,
+    "publisher": 5
+  },
+  {
+    "title": "Rewriting Your Front End Every Six Weeks",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "rfsw.jpg",
+    "pages": 168,
+    "price": 89.95,
+    "publisher": 5
+  },
+  {
+    "title": "Solving Imaginary Scaling Issues",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "sisi.jpg",
+    "pages": 125,
+    "price": 89.95,
+    "publisher": 4
+  },
+  {
+    "title": "Turning Coffee Into Code",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "tcic.jpg",
+    "pages": 187,
+    "price": 89.95,
+    "publisher": 3
+  },
+  {
+    "title": "Trying Stuff Until it Works",
+    "author": "Kerim Memija",
+    "stock": 2,
+
+    "image": "tsuw.jpg",
+    "pages": 170,
+    "price": 49.95,
+    "publisher": 2
+  },
+  {
+    "title": "Writing Code that Nobody Else Can Read",
+    "author": "Kerim Memija",
+    "stock": 2,
+    "image": "wcnr.jpg",
+    "pages": 121,
+    "price": 49.95,
+    "publisher": 1
+  }
+]

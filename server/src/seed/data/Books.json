@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Blame the Other Guy",
+    "author": "Kerim Memija",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "btog.jpg",
+    "pages": 111,
+    "price": 69.95
+  },
+  {
+    "title": "Blaming the User",
+    "author": "Edin Dzeko",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "btu.jpg",
+    "pages": 152,
+    "price": 79.95
+  },
+  {
+    "title": "Commenting Out Failed Tests",
+    "author": "Ibrica Jusic",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "coft.jpg",
+    "pages": 166,
+    "price": 69.95
+  },
+  {
+    "title": "Copying and Pasting from Stack Overflow",
+    "author": "Severina",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "cpso.jpg",
+    "pages": 159,
+    "price": 69.95
+  },
+  {
+    "title": "Changing Stuff and Seeing What Happens",
+    "author": "Mak Dizdar",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "cswh.jpg",
+    "pages": 129,
+    "price": 59.95
+  },
+  {
+    "title": "Coding on the Weekend",
+    "author": "Ivo Andric",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "cw.jpg",
+    "pages": 142,
+    "price": 49.95
+  },
+  {
+    "title": "Doing it the Hard Way",
+    "author": "Isak Samokovlija",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "dihw.jpg",
+    "pages": 113,
+    "price": 59.95
+  },
+  {
+    "title": "Forgetting How Your Own Code Works",
+    "author": "Izudin Bajrovic",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "fhcw.jpg",
+    "pages": 150,
+    "price": 69.95
+  },
+  {
+    "title": "Trying Stuff Until it Works",
+    "author": "Sanela Jenkins",
+    "stock": 2,
+    "reorderNotification": 1,
+    "image": "tsuw.jpg",
+    "pages": 170,
+    "price": 49.95
+  }
+]

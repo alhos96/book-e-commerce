@@ -1,0 +1,10 @@
+.Checkout-wrapp,
+.Billing-wrapp,
+.Transaction-wrapp {
+  height: auto;
+  width: 95%;
+  max-width: 900px;
+  margin: auto;
+  padding-top: 25px;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,64 @@
+.Home-wrapp {
+  height: auto;
+  width: 95%;
+  max-width: 1020px;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.Books-list {
+  max-width: 800px;
+  margin: auto;
+}
+
+.cart-icon {
+  position: absolute !important;
+  top: 10px !important;
+  right: 15px !important;
+}
+
+.Text-wrapp {
+  width: 100%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.Buttons-wrapp {
+  width: 90%;
+  margin: auto;
+}
+
+.button {
+  text-transform: capitalize !important;
+  border-radius: 0px !important;
+  margin-top: 5px !important;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 760px) {
+  .Home-wrapp {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .Books-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 80px;
+  }
+
+  #home-page-quote {
+    font-size: 20px !important;
+  }
+}
+
+@media screen and (min-width: 1020px) {
+  #home-page-quote {
+    font-size: 25px !important;
+  }
+}
