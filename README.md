@@ -27,9 +27,10 @@ The Book E-Commerce System will provide a number of functions. It will:
 
 After cloning repository and opening it, in terminal type command `cd server` and add your own .env file with following variables: 
 - **PORT** use 5000,  
-- **MONGO_URI** use "mongodb+srv://**username**:**password**@pizzaordercomposer.n9nav.mongodb.net/**project_number**?retryWrites=true&w=majority" 
+- **MONGO_URI** if not provided local database will be used 
 - **JWT_SECRET** 
-- **ADMIN_EMAIL** this is the email on which you will recieve restock notifications. After that run `npm install` to install all the dependencies. This application requires data to be seeded before initial run. For that you should type `npm run seed` command while still inside server folder. After completing all these steps run `npm start` script. 
+- **ADMIN_EMAIL** this is the email on which you as admin will recieve restock notifications. Use your own mail.
+- After that run `npm install` to install all the dependencies. This application requires data to be seeded before initial run. For that you should type `npm run seed` command while still inside server folder. After completing all these steps run `npm start` script. 
 
 That runs the server part of application in the development mode on http://localhost:5000.
 
@@ -39,7 +40,7 @@ After you are done with backend part of application in terminal type command `cd
 
 That runs the frontend part of application in the development mode.
 
-Open http://localhost:3000 to view it in the browser. Homepage will be open on which you can add items to cart but for everything else you will need to be logged in as user or admin. You can create your own user accounts and you should use your own email to make sure you recieve all notifications. To login as admin please use following credentials: 
+Open http://localhost:3000 to view it in the browser. Homepage will be open on which you can add items to cart but for everything else you will need to be logged in as user or admin. You can create your own user accounts and you should **use your own email** to make sure you recieve all notifications. To login as admin please use following credentials: 
 
 - **username**: admin
 - **password**: adminadmin
